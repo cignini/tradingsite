@@ -5,7 +5,7 @@
 
 ## Analisi ciclica evoluta
 
-L’obiettivo dell’ analisi ciclica evoluta è quello di individuare e concatenare tra loro i seguenti elementi:
+L’obiettivo dell’analisi ciclica evoluta è quello di individuare e concatenare tra loro i seguenti elementi:
 
 - **Cicli di indice/inverso**
 - **Vincoli**  
@@ -14,7 +14,7 @@ L’obiettivo dell’ analisi ciclica evoluta è quello di individuare e concate
 
 ---
 
-L’analisi ciclica dei mercati e in particolare l’*analisi ciclica evoluta* si fonda su __due principali teoremi__:
+L’[[TRADING/STRATEGIE/CICLICA EVOLUTA/principi della ciclica/teoria ciclica|analisi ciclica]] dei mercati e in particolare l’*analisi ciclica evoluta* si fonda su __due principali teoremi__:
 
 > 1. **Il metodo ciclico di Hurst** il primo a ipotizzare e creare un modello che permettesse di prevedere le fluttuazioni del prezzo di mercato, elaborando un teorema composto da 5 punti cardine in cui viene messa in evidenza la correlazione tra il tempo e il comportamento di prezzo  
 > 
