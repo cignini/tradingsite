@@ -7,7 +7,7 @@
 
 Nell'[[TRADING/STRATEGIE/CICLICA EVOLUTA/Analisi ciclica evoluta|Analisi ciclica evoluta]] un **ciclo indice** parte da un minimo importante e finisce con un minimo importante disegnando delle M.
 
-> [!TIP] tendono ad accorciarsi a favore degli inversi (che si allungano) quand o il trend e fortemente ribassista. 
+> [!TIP] tendono ad accorciarsi a favore degli inversi (che si allungano) quando il trend è fortemente ribassista. 
 
 ll ciclo di indice fortemente rialzista tende a sviluppare il massimo (minimo di inverso) verso la fine del ciclo.
 
