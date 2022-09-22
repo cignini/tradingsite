@@ -9,7 +9,7 @@ L’obiettivo dell’ analisi ciclica evoluta è quello di individuare e concate
 
 - **Cicli di indice/inverso**
 - **Vincoli**  
-- **Swing**  
+- **[[TRADING/STRATEGIE/CICLICA EVOLUTA/swing/swing per la conferma di partenza di un ciclo|swing]]**  
 - **Tempo**
 
 ---
@@ -35,6 +35,8 @@ I cicli si suddividono in:
 
 </div>
 
+
+
 ## Il ciclo indice
 
 Nell'[[TRADING/STRATEGIE/CICLICA EVOLUTA/Analisi ciclica evoluta|Analisi ciclica evoluta]] un **ciclo indice** parte da un minimo importante e finisce con un minimo importante disegnando delle M.
@@ -59,6 +61,8 @@ ll ciclo di indice fortemente rialzista tende a sviluppare il massimo (minimo di
 
 </div>
 
+
+
 ## Il ciclo inverso
 
 Nell'[[TRADING/STRATEGIE/CICLICA EVOLUTA/Analisi ciclica evoluta|Analisi ciclica evoluta]] un **ciclo inverso** è un ciclo che parte da un massimo importante, sviluppa la partenza con prezzi decrescenti e chiuderà con dei massimi disegnando delle U.
@@ -74,3 +78,4 @@ Un ciclo inverso può essere ribassi sta (rialzo di prezzi) o rialzista (ribasso
 
 > [!IMPORTANT] Utilizzo dello [[TRADING/STRATEGIE/CICLICA EVOLUTA/swing/swing per la conferma di partenza di un ciclo|SWING]] per rafforzare l'ipotesi di partenza di un ciclo indice o inverso
 
+Dai anche una letta ai [[TRADING/STRATEGIE/CICLICA EVOLUTA/Elico/post di elico|post di elico]].
