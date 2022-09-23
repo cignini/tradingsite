@@ -80,4 +80,6 @@ Un ciclo inverso può essere ribassista (rialzo di prezzi) o rialzista (ribasso 
 
 Guarda le [[TRADING/STRATEGIE/CICLICA EVOLUTA/tecniche di ingresso e uscita/tecniche di ingresso e uscita basate su ciclica evoluta|tecniche di ingresso e uscita basate su ciclica evoluta]].
 
+Guarda le [[TRADING/STRATEGIE/CICLICA EVOLUTA/regole utili nella ciclica evoluta|regole utili nella ciclica evoluta]]
+
 Dai anche una letta ai [[TRADING/STRATEGIE/CICLICA EVOLUTA/Elico/post di elico|post di elico]].
