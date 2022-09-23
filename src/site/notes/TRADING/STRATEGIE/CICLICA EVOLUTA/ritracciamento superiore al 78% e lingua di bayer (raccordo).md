@@ -15,3 +15,7 @@ Un ritracciamento > 78% è come se finisse negativo e quindi può far parte dell
 
 In questo esempio voglio capire se il 3T-3 può essere considerato un raccordo di 2T.
 Dato che il ritracciamento da 4Ti a 3T-3 porta il 2T a una percentuale di circa 0.7 e quindi inferiore ai 0.78 richiesti non posso considerare il 3T-3 un raccordo di 2T, ma l'inizio di una nuovo settimanale.
+
+### Note
+
+Considerei il caso che il raccordo potenziale sia valido se è tra 78 e 100 sia nel caso in cui il T sia sopra e il T-3 sia che viceversa sia il T a essere sotto e il T-3 di raccordo sopra. Questo indicherebbe la tolleranza di accettazione di un raccordo come magnitudine (mi sembra si dica così in ambito ciclico)
