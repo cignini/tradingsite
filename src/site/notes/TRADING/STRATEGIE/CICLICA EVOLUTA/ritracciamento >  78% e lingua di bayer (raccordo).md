@@ -3,7 +3,6 @@
 ---
 
 
-
 ## Ritracciamento > 78% e lingua di bayer (raccordo)
 
 ### Regola
